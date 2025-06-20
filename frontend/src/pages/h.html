@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- <button id="myButton">Click me!</button> -->
+    <input type="button" value="Exploit" onClick="javascript:popUp('https://staging15.trigent.com')">
+    <input type="button" value="Exploit" onClick="javascript:popUp('https://trigent.com')">
+
+    <h3>Popup Test Buttons</h3>
+
+    <!-- This should open -->
+    <!-- <input type="button" value="Open Trusted URL" onClick="popUp('https://staging15.trigent.com')"> -->
+    
+    <!-- This should be blocked -->
+    <!-- <input type="button" value="Open Untrusted URL" onClick="popUp('https://phishingsite.com')"> -->
+    
+    <!-- This should also be blocked via global override -->
+    <!-- <input type="button" value="Direct window.open()" onClick="window.open('https://evilsite.com', '_blank', 'fullscreen=yes')"> -->
+
+    <h3>Popup Test</h3>
+<!-- <input type="button" value="Open Trusted" onClick="window.open('https://staging15.trigent.com')">
+<input type="button" value="Open Untrusted" onClick="window.open('https://phishing.com')">
+<input type="button" value="Fullscreen Attempt" onClick="window.open('https://trigent.com', '_blank', 'fullscreen=yes')"> -->
+
+    
+    <script>
+
+
+    </script>
+    <script>
+        function popUp(url) {
+            window.open(url, '_blank');
+        }
+        </script>
+</body>
+</html>
