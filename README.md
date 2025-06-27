@@ -2,6 +2,8 @@
 
 This application is intended for all marketing personnel and will serve as a centralized platform to access various types of design elements.
 
+Technology Stack: The frontend will be developed using React. The backend technology is open for recommendations based on scalability, performance, and project requirements.
+
 Key Details:
 - Target Audience: Primarily Marketing, Presales, and Sales teams. Project Managers may also use the application occasionally.
 - Purpose: To provide key design assets such as decks, icons, infographics, PDFs, and other materials for the above users.
