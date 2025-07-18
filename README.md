@@ -35,5 +35,6 @@ Page Functionality:
   - This is the home screen for every one.
   - Searching the assets.
   - Links will be provided (All, Icons, PDF, PPT, Stock Images, Infographic).
+  - Brand guideline will be separate page and it will open in new tab. for this page no need any login. This page will be access in any network.
   - Once the user clicks on login signle signon screen will appear
   - After successfull login user lands here with message about his access (refer the figma screen - Modal-UploadRequest).
