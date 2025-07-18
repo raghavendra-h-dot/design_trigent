@@ -20,3 +20,20 @@ Key Details:
 - Search Results: Results will be shown in a tabbed view—All, Infographics, Icons, Decks, PDFs, etc.
 - Element Access: Users can view details of each item and download them as needed.
 - Security Feature (Optional): We may implement restrictions to limit access (especially for viewing and downloading) to users within the Trigent network.
+
+
+Figma URL: https://www.figma.com/proto/zRDrqLs9YqQpUzmnU7NGUx/Brand?node-id=617-8446&starting-point-node-id=320%3A8043&t=iqyzVFfPWilFIEx5-1
+
+Roles:
+Super Admin - Manage all admins, roles, assets, upload, approve/reject. 
+Admin - View, Download, Upload, Manage their invited people, Approve/Reject assets or content.
+Standard - View, Download and Upload
+View - View and Download
+
+Page Functionality:
+- Search screen
+  - This is the home screen for every one.
+  - Searching the assets.
+  - Links will be provided (All, Icons, PDF, PPT, Stock Images, Infographic).
+  - Once the user clicks on login signle signon screen will appear
+  - After successfull login user lands here with message about his access (refer the figma screen - Modal-UploadRequest).
