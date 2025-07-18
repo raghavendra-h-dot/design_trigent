@@ -25,10 +25,10 @@ Key Details:
 Figma URL: https://www.figma.com/proto/zRDrqLs9YqQpUzmnU7NGUx/Brand?node-id=617-8446&starting-point-node-id=320%3A8043&t=iqyzVFfPWilFIEx5-1
 
 Roles:
-Super Admin - Manage all admins, roles, assets, upload, approve/reject. 
-Admin - View, Download, Upload, Manage their invited people, Approve/Reject assets or content.
-Standard - View, Download and Upload
-View - View and Download
+- Super Admin - Manage all admins, roles, assets, upload, approve/reject. 
+- Admin - View, Download, Upload, Manage their invited people, Approve/Reject assets or content.
+- Standard - View, Download and Upload
+- View - View and Download
 
 Page Functionality:
 - Search screen
